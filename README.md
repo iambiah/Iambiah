@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi guys💗✨
 
-<!--
-**iambiah/Iambiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Bianca 
 
-Here are some ideas to get you started:
+- Sou estudante de escola pública do estado de São Paulo;
+- Estou aprendendo a linguagem Java Script;
+- Utilizo esse espaço para minha organização e compartilhamento de projetos desenvolvidos📚;
+- Pretendo me cursar em psicologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Curiosidades sobre mim💞
+
+  - Amo gatos🐱;
+  - Gosto de ouvir música;
+  - Gosto de ler📘;
+  - Gosto de assistir animes e filmes;
+
+![](https://media.tenor.com/eRGU5l2v-_wAAAAi/cat-meme.gif)
+
+
+
+
+
+
+  
